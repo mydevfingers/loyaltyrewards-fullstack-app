@@ -12,7 +12,8 @@ The Zilliqa Fullstack app is a full-fledged application on the Zilliqa Blockchai
 - [Tailwind CSS](https://tailwindcss.com) for styling.
 - The `/src/scilla` contains the Scilla contract. We can use the [Zilliqa JavaScript Library](https://github.com/Zilliqa/Zilliqa-JavaScript-Library) or the Scilla Online IDE to deploy the contract. Please add the contract address in `REACT_APP_SMART_CONTRACT_ADDRESS` variable in a `.env` file in the root of the project.
 
-## Built by Team 3, ZilHive Incubator, 1st Batch.
+## Built by 
+Team 3, ZilHive Incubator, 1st Batch.
 
 ## Available Scripts
 
